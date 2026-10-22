@@ -19,11 +19,11 @@ The Autism Brain Imaging Data Exchange (ABIDE) Preprocessed Connectomes Project 
 
  * Phase 2: High-Resolution Weighted Analysis 
 
-To validate and expand upon the initial findings, a subsequent pipeline was executed with three critical methodological adjustments: 
+   To validate and expand upon the initial findings, a subsequent pipeline was executed with three critical methodological adjustments: 
 
-* Spatial Granularity: The parcellation was scaled from 100 to 400 ROIs to provide a finer, voxel-level representation of connectivity patterns.  
-* Connectivity Metric: The transition from partial to Pearson correlation captured the total functional synchrony that accounts for both direct and indirect neural pathways. 
-* Weighted Graph Preservation: While binary thresholding methods reduce computational costs, they heavily rely on arbitrary, operator-based thresholds that often fail to consider the underlying physiological and pathological conditions of the brain. Eliminating binary thresholding and utilizing weighted graphs preserved the natural biological information and offers a more robust and mathematically accurate depiction of functional connectivity without subjective thresholding bias.
+   * Spatial Granularity: The parcellation was scaled from 100 to 400 ROIs to provide a finer, voxel-level representation of connectivity patterns.  
+   * Connectivity Metric: The transition from partial to Pearson correlation captured the total functional synchrony that accounts for both direct and indirect neural pathways. 
+   * Weighted Graph Preservation: While binary thresholding methods reduce computational costs, they heavily rely on arbitrary, operator-based thresholds that often fail to consider the underlying physiological and pathological conditions of the brain. Eliminating binary thresholding and utilizing weighted graphs preserved the natural biological information and offers a more robust and mathematically accurate depiction of functional connectivity without subjective thresholding bias.
 
 # 1.2. Evaluating Cross-Network Dynamics and Compensatory Mechanisms in Alzheimer’s Disease (AD): 
 
