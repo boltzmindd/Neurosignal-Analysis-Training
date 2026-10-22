@@ -25,6 +25,7 @@ To validate and expand upon the initial findings, a subsequent pipeline was exec
 * Connectivity Metric: The transition from partial to Pearson correlation captured the total functional synchrony that accounts for both direct and indirect neural pathways. 
 * Weighted Graph Preservation: While binary thresholding methods reduce computational costs, they heavily rely on arbitrary, operator-based thresholds that often fail to consider the underlying physiological and pathological conditions of the brain. Eliminating binary thresholding and utilizing weighted graphs preserved the natural biological information and offers a more robust and mathematically accurate depiction of functional connectivity without subjective thresholding bias.
 
-# 1.2. Evaluating Cross-Network Dynamics and Compensatory Mechanisms in Alzheimer’s Disease (AD) 
+# 1.2. Evaluating Cross-Network Dynamics and Compensatory Mechanisms in Alzheimer’s Disease (AD): 
+
 
 Alzheimer’s Disease (AD) is characterized by the progressive alteration and disconnection of large-scale functional brain networks. While pathological declines in Default Mode Network (DMN) and Precuneus connectivity are documented, recent frameworks suggest that the brain engages in compensatory hyperconnectivity within DMN and executive networks in an attempt to maintain cognitive efficiency against AD. Moving beyond this intra-network dynamics, a cross-network hypothesis was formulated during this internship: The natural anti-correlation between the DMN and the Executive Control Network (ECN) is disrupted in AD, which results as increased functional coupling as a compensatory effort.
